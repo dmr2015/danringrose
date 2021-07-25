@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>danringrose</title>
+    <link href="https://dmr2015.github.io/danringrose/feed.xml" rel="self" />
+    <link href="https://dmr2015.github.io/danringrose" />
+    <updated>2021-07-25T09:37:56-05:00</updated>
+    <author>
+        <name>Dan Ringrose</name>
+    </author>
+    <id>https://dmr2015.github.io/danringrose</id>
+
+    <entry>
+        <title>Dan Ringrose</title>
+        <author>
+            <name>Dan Ringrose</name>
+        </author>
+        <link href="https://dmr2015.github.io/danringrose/dan-ringrose.html"/>
+        <id>https://dmr2015.github.io/danringrose/dan-ringrose.html</id>
+
+        <updated>2021-07-25T09:37:56-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Test site.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Test site.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

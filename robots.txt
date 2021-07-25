@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dmr2015.github.io/danringrose/sitemap.xml

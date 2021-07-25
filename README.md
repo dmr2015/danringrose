@@ -1,2 +1,0 @@
-# danringrose
-static web site
