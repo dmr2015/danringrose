@@ -1,31 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>danringrose</title>
+    <title>Dan Ringrose</title>
     <link href="https://dmr2015.github.io/danringrose/feed.xml" rel="self" />
     <link href="https://dmr2015.github.io/danringrose" />
-    <updated>2021-07-25T09:37:56-05:00</updated>
+    <updated>2021-07-25T09:48:02-05:00</updated>
     <author>
         <name>Dan Ringrose</name>
     </author>
     <id>https://dmr2015.github.io/danringrose</id>
 
     <entry>
-        <title>Dan Ringrose</title>
+        <title>Page 2</title>
+        <author>
+            <name>Dan Ringrose</name>
+        </author>
+        <link href="https://dmr2015.github.io/danringrose/post-2.html"/>
+        <id>https://dmr2015.github.io/danringrose/post-2.html</id>
+
+        <updated>2021-07-25T09:48:02-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Test page 2
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Test page 2</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About</title>
         <author>
             <name>Dan Ringrose</name>
         </author>
         <link href="https://dmr2015.github.io/danringrose/dan-ringrose.html"/>
         <id>https://dmr2015.github.io/danringrose/dan-ringrose.html</id>
 
-        <updated>2021-07-25T09:37:56-05:00</updated>
+        <updated>2021-07-25T09:47:51-05:00</updated>
             <summary>
                 <![CDATA[
-                    Test site.
+                    Test About page
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Test site.</p>
+                <p>Test About page</p>
             ]]>
         </content>
     </entry>

@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "danringrose",
+    "title": "Dan Ringrose",
     "description": "",
     "home_page_url": "https://dmr2015.github.io/danringrose",
     "feed_url": "https://dmr2015.github.io/danringrose/feed.json",
@@ -10,18 +10,32 @@
     },
     "items": [
         {
+            "id": "https://dmr2015.github.io/danringrose/post-2.html",
+            "url": "https://dmr2015.github.io/danringrose/post-2.html",
+            "title": "Page 2",
+            "summary": "Test page 2",
+            "content_html": "<p>Test page 2</p>",
+            "author": {
+                "name": "Dan Ringrose"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-25T09:46:06-05:00",
+            "date_modified": "2021-07-25T09:48:02-05:00"
+        },
+        {
             "id": "https://dmr2015.github.io/danringrose/dan-ringrose.html",
             "url": "https://dmr2015.github.io/danringrose/dan-ringrose.html",
-            "title": "Dan Ringrose",
-            "summary": "Test site.",
-            "content_html": "<p>Test site.</p>",
+            "title": "About",
+            "summary": "Test About page",
+            "content_html": "<p>Test About page</p>",
             "author": {
                 "name": "Dan Ringrose"
             },
             "tags": [
             ],
             "date_published": "2021-07-25T09:37:56-05:00",
-            "date_modified": "2021-07-25T09:37:56-05:00"
+            "date_modified": "2021-07-25T09:47:51-05:00"
         }
     ]
 }
